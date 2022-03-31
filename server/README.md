@@ -33,8 +33,8 @@ Node 16 혹은 그 이상의 버전이 필요합니다.
 
 ```javascript
 {
-  imit: number, // 조회할 콘텐츠 개수 (required)
-  page: number, // 조회할 콘텐츠 페이지 (required)
+  limit: number, // 조회할 콘텐츠 개수 (required)
+  cursor: number, // 조회할 콘텐츠 커서 (required): 처음 0을 요청하면 limit개수 만큼 콘텐츠 응답, 이후에는 응답한 콘텐츠의 id를 요청 주어야 함
   orderBy: enum['createdAt', 'company'], // 조회할 콘텐츠 리스트의 순서 기준 (required)
   keyword: string // 회사 키워드 (optional)
 }
@@ -42,7 +42,7 @@ Node 16 혹은 그 이상의 버전이 필요합니다.
 
 **Return** : `orderBy === 'createdAt'` 일 때는 최신순, `orderBy === 'company'` 일 때는 회사 이름 기준 오름차순(ㄱ~ㅎ)
 
-Request가 `http://localhost:8080/api/contents?limit=2&page=1&orderBy=createdAt&keyword=오픈` 일 경우,
+Request가 `http://localhost:8080/api/contents?limit=2&cursor=0&orderBy=createdAt&keyword=오픈` 일 경우,
 
 ```javascript
 status : 200 OK
@@ -77,7 +77,7 @@ status : 200 OK
 
 ```javascript
 {
-  imit: number, // 조회할 배너 개수 (required)
+  limit: number, // 조회할 배너 개수 (required)
 }
 ```
 

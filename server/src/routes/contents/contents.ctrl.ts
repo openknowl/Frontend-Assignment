@@ -26,8 +26,7 @@ export default class ContentCtrl {
       reply.status(400).send(validateResult.error.details[0].message);
     }
 
-    const { limit, page, orderBy, keyword } = req.query;
-    const offset = (Number(page) - 1) * Number(limit);
+    const { limit, cursor, orderBy, keyword } = req.query;
 
     let contentList = mockContents;
     if (keyword) {
@@ -41,9 +40,13 @@ export default class ContentCtrl {
         ? orderByCompany(contentList)
         : orderByCreatedAt(contentList);
 
+    const findCursor = orderByContentList.findIndex(
+      (content: content) => content.id === Number(cursor),
+    ); // cursor가 0이면 findCursor === -1
+
     const returnContentList = orderByContentList.slice(
-      offset,
-      offset + Number(limit),
+      findCursor + 1,
+      findCursor + 1 + Number(limit),
     );
 
     reply.status(200).send(returnContentList);

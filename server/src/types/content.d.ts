@@ -9,7 +9,7 @@ export type content = {
 
 export type query = {
   limit: string;
-  page: string;
+  cursor: string;
   keyword: string;
   orderBy: string;
 };
