@@ -23,7 +23,8 @@ export default class ContentCtrl {
       getQuerySchema.validate(req.query);
 
     if (validateResult.error) {
-      reply.status(400).send(validateResult.error.details[0].message);
+      const message = validateResult.error.details[0].message;
+      return reply.code(400).send(message);
     }
 
     const { limit, cursor, orderBy, keyword } = req.query;
@@ -49,6 +50,6 @@ export default class ContentCtrl {
       findCursor + 1 + Number(limit),
     );
 
-    reply.status(200).send(returnContentList);
+    reply.code(200).send(returnContentList);
   };
 }

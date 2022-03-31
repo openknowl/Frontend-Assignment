@@ -22,13 +22,14 @@ export default class BannerCtrl {
       getQuerySchema.validate(req.query);
 
     if (validateResult.error) {
-      reply.status(400).send(validateResult.error.details[0].message);
+      const message = validateResult.error.details[0].message;
+      return reply.code(400).send(message);
     }
 
     const limit = Number(req.query.limit);
 
     const bannerList = mockBanners.slice(0, limit);
 
-    reply.status(200).send(bannerList);
+    reply.code(200).send(bannerList);
   };
 }
