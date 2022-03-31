@@ -1,0 +1,514 @@
+[
+  {
+    "id": 1,
+    "createdAt": "2019-12-01T18:31:21.653Z",
+    "updatedAt": "2019-12-01T18:31:21.653Z",
+    "thumbnail": "https://miniintern-upload.s3.ap-northeast-2.amazonaws.com/24983/04decdd8-8697-4bbd-b35d-06650db33384/드리머리미니인턴배너.png",
+    "title": "고객들의 헤어 디자이너 선택을 돕기 위한 드리머리 UI/UX 개선안 제안",
+    "company": "(주)드리머리"
+  },
+  {
+    "id": 2,
+    "createdAt": "2021-12-16T17:48:03.857Z",
+    "updatedAt": "2021-12-16T17:48:03.857Z",
+    "thumbnail": "https://miniintern-upload.s3.ap-northeast-2.amazonaws.com/24875/7cef1b03-918b-41a1-a379-aab6bd6fc976/블루시그넘미니인턴로고.png",
+    "title": "하루콩을 효과적으로 알릴 수 있는 콘텐츠 마케팅 혹은 SNS 이벤트 방안 제안",
+    "company": "블루시그넘(주)"
+  },
+  {
+    "id": 3,
+    "createdAt": "2022-01-11T12:33:29.594Z",
+    "updatedAt": "2022-01-11T12:33:29.594Z",
+    "thumbnail": "https://miniintern-upload.s3.ap-northeast-2.amazonaws.com/24655/9d61aa9f-ab21-4b53-bcbd-a5ec502cac49/인크루트커버1.png",
+    "title": "인크루트 유튜브 채널의 신규 구독자 유입 및 활성화를 위한 마케팅 아이디어 제안",
+    "company": "인크루트 주식회사"
+  },
+  {
+    "id": 4,
+    "createdAt": "2022-03-17T07:19:08.747Z",
+    "updatedAt": "2022-03-17T07:19:08.747Z",
+    "thumbnail": "https://miniintern-upload.s3.ap-northeast-2.amazonaws.com/24657/bf9662d9-6a18-4750-b3e3-497cd00e75f3/인크루트커버1.png",
+    "title": "인크루트만의 B2B Sales 전략 도출 아이디어 제안",
+    "company": "인크루트 주식회사"
+  },
+  {
+    "id": 5,
+    "createdAt": "2018-10-20T13:34:52.057Z",
+    "updatedAt": "2018-10-20T13:34:52.057Z",
+    "thumbnail": "https://miniintern-upload.s3.ap-northeast-2.amazonaws.com/24651/77734f97-ac08-4959-8930-078fcb031d50/더발라랜딩페이지커버.png",
+    "title": "메이크업 O2O플랫폼 'VALLA'의 신규 고객 유입을 위한 콘텐츠 기획 및 마케팅 아이디어 제안",
+    "company": "(주)더발라"
+  },
+  {
+    "id": 6,
+    "createdAt": "2021-03-29T23:47:34.482Z",
+    "updatedAt": "2021-03-29T23:47:34.482Z",
+    "thumbnail": "https://miniintern-upload.s3.ap-northeast-2.amazonaws.com/24606/2844eb56-da4e-478b-bcea-b4bca4be2e6c/토스클론랜딩페이지커버.png",
+    "title": "자사 트위터(Kpopmap) 팔로워를 늘릴 수 있는 마케팅 방안 제안",
+    "company": "토스클론"
+  },
+  {
+    "id": 7,
+    "createdAt": "2019-11-01T15:23:18.688Z",
+    "updatedAt": "2019-11-01T15:23:18.688Z",
+    "thumbnail": "https://miniintern-upload.s3.ap-northeast-2.amazonaws.com/24607/8a818d1f-6909-47a9-a2ec-6682803a2309/토스클론랜딩페이지커버.png",
+    "title": "아이돌 투표 플랫폼의 차별화를 위한 서비스기획 또는 아티스트 인터뷰 콘텐츠 기획 제안",
+    "company": "토스클론"
+  },
+  {
+    "id": 8,
+    "createdAt": "2019-02-20T09:29:45.694Z",
+    "updatedAt": "2019-02-20T09:29:45.694Z",
+    "thumbnail": "https://miniintern-upload.s3.ap-northeast-2.amazonaws.com/24515/e93a3662-bf0b-4ade-b40b-d217921af07b/아이뉴글로벌-웹배너.png",
+    "title": "부동산 전문기업 '아투연' 유튜브 채널 활성화를 위한 컨텐츠 제작",
+    "company": "(주)아이뉴글로벌"
+  },
+  {
+    "id": 9,
+    "createdAt": "2021-06-02T12:52:17.982Z",
+    "updatedAt": "2021-06-02T12:52:17.982Z",
+    "thumbnail": "https://miniintern-upload.s3.ap-northeast-2.amazonaws.com/24618/20c33d3b-c9f8-4929-9893-6a125165416d/오픈놀배배너.png",
+    "title": "미니인턴 SNS 활성화를 위한 콘텐츠 기획 및 마케팅 방안 제안",
+    "company": "오픈놀"
+  },
+  {
+    "id": 10,
+    "createdAt": "2021-09-14T10:20:23.622Z",
+    "updatedAt": "2021-09-14T10:20:23.622Z",
+    "thumbnail": "https://miniintern-upload.s3.ap-northeast-2.amazonaws.com/24475/c4c8bbfb-6eef-4e58-a8ca-55b94708d0fa/오픈놀배배너-1.png",
+    "title": "미니인턴 서비스 활성화를 위한 아이디어 제안",
+    "company": "오픈놀"
+  },
+  {
+    "id": 11,
+    "createdAt": "2021-03-04T14:43:39.493Z",
+    "updatedAt": "2021-03-04T14:43:39.493Z",
+    "thumbnail": "https://miniintern-upload.s3.ap-northeast-2.amazonaws.com/24250/6226cfd7-a4a3-40ef-a5d7-eeb76b1a92ee/웰리프커버이미지.png",
+    "title": "단백질 쉐이크 ‘킥헝거’를 효과적으로 알릴 수 있는 마케팅 방안 기획",
+    "company": "(주)웰리프코퍼레이션"
+  },
+  {
+    "id": 12,
+    "createdAt": "2018-09-24T11:09:00.072Z",
+    "updatedAt": "2018-09-24T11:09:00.072Z",
+    "thumbnail": "https://miniintern-upload.s3.ap-northeast-2.amazonaws.com/24255/01e28ee8-2cbe-4516-bd2a-7cc949e6093a/이해라이프스타일커버.png",
+    "title": "라이프스타일 플랫폼 ‘미공’의 정기구독 활성화를 위한 상세페이지 디자인",
+    "company": "(주)이해라이프스타일"
+  },
+  {
+    "id": 13,
+    "createdAt": "2021-01-24T07:19:23.973Z",
+    "updatedAt": "2021-01-24T07:19:23.973Z",
+    "thumbnail": "https://miniintern-upload.s3.ap-northeast-2.amazonaws.com/24213/49ef58fb-805d-408b-bba0-e091c5a9c986/이해라이프스타일커버.png",
+    "title": "라이프스타일 플랫폼 ‘미공’의 정기구독 활성화를 위한 매력적인 상품 소싱 및 기획",
+    "company": "(주)이해라이프스타일"
+  },
+  {
+    "id": 14,
+    "createdAt": "2022-01-04T19:57:02.682Z",
+    "updatedAt": "2022-01-04T19:57:02.682Z",
+    "thumbnail": "https://miniintern-upload.s3.ap-northeast-2.amazonaws.com/23853/41de01fe-3c0e-49a8-8c28-1542c6f8e1f1/달콤한고래들.png",
+    "title": "협업과 소통을 효율적으로 진행할 수 있는 업무 방법 아이디어 제안",
+    "company": "(주)달콤한고래들"
+  },
+  {
+    "id": 15,
+    "createdAt": "2019-01-09T11:54:16.445Z",
+    "updatedAt": "2019-01-09T11:54:16.445Z",
+    "thumbnail": "https://miniintern-upload.s3.ap-northeast-2.amazonaws.com/23823/a77c348a-1ce7-4c0d-ba98-79e5b3676462/씽굿배너.png",
+    "title": "씽굿을 MZ세대에게 각인시키고 씽굿 매체 이용률을 높일 수 있는 마케팅 아이디어 기획",
+    "company": "(주)씽굿"
+  },
+  {
+    "id": 16,
+    "createdAt": "2019-08-19T04:47:39.408Z",
+    "updatedAt": "2019-08-19T04:47:39.408Z",
+    "thumbnail": "https://miniintern-upload.s3.ap-northeast-2.amazonaws.com/23621/675472a9-d466-4536-8157-cfc4dbc5d409/허브넷굿컴퍼니웹배너.png",
+    "title": "타 광고 대행사를 이용하고 있는 광고주를 '허브넷'으로 이관할 수 있도록 하는 광고전략 기획",
+    "company": "(주)허브넷굿컴퍼니닷컴"
+  },
+  {
+    "id": 17,
+    "createdAt": "2019-11-08T04:33:46.830Z",
+    "updatedAt": "2019-11-08T04:33:46.830Z",
+    "thumbnail": "https://miniintern-upload.s3.ap-northeast-2.amazonaws.com/23588/3ee8d112-050f-42be-a753-f1dcf657f06f/트레드앤그루브배너.png",
+    "title": "폐타이어 업사이클링 신발의 유튜브 마케팅 아이디어 제안",
+    "company": "트레드앤그루브"
+  },
+  {
+    "id": 18,
+    "createdAt": "2020-06-06T09:34:32.089Z",
+    "updatedAt": "2020-06-06T09:34:32.089Z",
+    "thumbnail": "https://miniintern-upload.s3.ap-northeast-2.amazonaws.com/23565/131f0753-14bc-4ae4-9ca7-c9570706cc5f/메저커머스랜딩페이지커버.png",
+    "title": "메저커머스 고객사에게 필요한 뷰티/패션 트렌드 분석 및 적용 방안 제안",
+    "company": "메저커머스"
+  },
+  {
+    "id": 19,
+    "createdAt": "2021-01-13T02:48:33.079Z",
+    "updatedAt": "2021-01-13T02:48:33.079Z",
+    "thumbnail": "https://miniintern-upload.s3.ap-northeast-2.amazonaws.com/23403/52c624a0-906c-41b4-89ea-f22d718f1e7a/더브레드블루미니인턴랜딩페이지-커버.png",
+    "title": "제품 표시사항 관련 민원에 대한 처리 방안 제안",
+    "company": "더브레드블루"
+  },
+  {
+    "id": 20,
+    "createdAt": "2020-11-23T07:57:53.047Z",
+    "updatedAt": "2020-11-23T07:57:53.047Z",
+    "thumbnail": "https://miniintern-upload.s3.ap-northeast-2.amazonaws.com/23384/ebe07653-351d-41b9-aaa7-00f58027f6d3/필라멘트리미니인턴랜딩페이지-커버.png",
+    "title": "홈트레이닝 서비스 런칭 및 활성화를 위한 마케팅 방안 제안",
+    "company": "필라멘트리"
+  },
+  {
+    "id": 21,
+    "createdAt": "2021-01-17T04:12:37.534Z",
+    "updatedAt": "2021-01-17T04:12:37.534Z",
+    "thumbnail": "https://miniintern-upload.s3.ap-northeast-2.amazonaws.com/23350/44ccf04f-0471-4ed6-bc14-f66cc1a4878e/오픈프레스미니인턴랜딩페이지-커버.png",
+    "title": "우리 동네 펫돌봄 커뮤니티, 펫봄 App의 활성화를 위한 마케팅 방안 및 서비스 개선 방안",
+    "company": "(주)오픈프레스"
+  },
+  {
+    "id": 22,
+    "createdAt": "2022-03-23T05:18:13.109Z",
+    "updatedAt": "2022-03-23T05:18:13.109Z",
+    "thumbnail": "https://miniintern-upload.s3.ap-northeast-2.amazonaws.com/23367/0796e9ad-204e-4c76-9617-0217b704b00e/에이브레인미니인턴랜딩페이지-커버.png",
+    "title": "문자 및 이미지 인식 오픈소스를 활용하여 명함 또는 임의 출력물을 인식한 인식 결과 표출(앱 기반)",
+    "company": "(주)에이브레인"
+  },
+  {
+    "id": 23,
+    "createdAt": "2020-04-07T16:15:23.987Z",
+    "updatedAt": "2020-04-07T16:15:23.987Z",
+    "thumbnail": "https://miniintern-upload.s3.ap-northeast-2.amazonaws.com/23129/f52a2c88-a0db-4055-8e01-656d205ceefe/메이캔배너01.jpg",
+    "title": "대외활동/공모전 플랫폼 <요즘것들>의 오리지널 프로그램 기획 아이디어 제안",
+    "company": "메이캔"
+  },
+  {
+    "id": 24,
+    "createdAt": "2020-01-23T10:53:19.593Z",
+    "updatedAt": "2020-01-23T10:53:19.593Z",
+    "thumbnail": "https://miniintern-upload.s3.ap-northeast-2.amazonaws.com/22955/b2ae4024-13f3-4603-bd79-47768adb28f4/33.png",
+    "title": "서버/네트워크 시스템 진단을 위한 취약점 도출 및 보안대책 제시",
+    "company": "엔시큐어"
+  },
+  {
+    "id": 25,
+    "createdAt": "2022-03-05T04:52:59.598Z",
+    "updatedAt": "2022-03-05T04:52:59.598Z",
+    "thumbnail": "https://miniintern-upload.s3.ap-northeast-2.amazonaws.com/22958/a83a3eb5-2643-43c7-8e61-0dde61d93653/오스랩스미니인턴랜딩페이지-커버-수정.png",
+    "title": "학원의 오프라인 기능을 ‘메타버스’에 구현하기 위한 서비스 및 운영 방안 기획",
+    "company": "(주)오스랩스"
+  },
+  {
+    "id": 26,
+    "createdAt": "2019-12-06T17:33:31.855Z",
+    "updatedAt": "2019-12-06T17:33:31.855Z",
+    "thumbnail": "https://miniintern-upload.s3.ap-northeast-2.amazonaws.com/22743/40859ece-0c52-44d5-ac52-edf6cdaf8d94/주쉐어러스커버이미지.png",
+    "title": "‘교보북살롱’ 주니어 멤버십 신규 고객 유치를 위한 독서 프로그램 기획",
+    "company": "(주)쉐어러스"
+  },
+  {
+    "id": 27,
+    "createdAt": "2018-12-10T17:57:49.950Z",
+    "updatedAt": "2018-12-10T17:57:49.950Z",
+    "thumbnail": "https://miniintern-upload.s3.ap-northeast-2.amazonaws.com/22736/7308a23c-ebd4-4d76-aa1c-d2f087b695d3/크리시아미디어웹배너.png",
+    "title": "엔터테인먼트 크리시아미디어의 핵심 직무 중심의 인력 선발과 복지 제안",
+    "company": "(주)크리시아 미디어"
+  },
+  {
+    "id": 28,
+    "createdAt": "2019-11-25T05:55:51.543Z",
+    "updatedAt": "2019-11-25T05:55:51.543Z",
+    "thumbnail": "https://miniintern-upload.s3.ap-northeast-2.amazonaws.com/23131/a78bd8c1-de0b-431d-8578-2c5df477e75b/오픈놀커버이미지1.png",
+    "title": "진로/취업/청년 교육 프로그램 기획 및 운영방안 제안",
+    "company": "오픈놀"
+  },
+  {
+    "id": 29,
+    "createdAt": "2018-09-09T21:06:36.390Z",
+    "updatedAt": "2018-09-09T21:06:36.390Z",
+    "thumbnail": "https://miniintern-upload.s3.ap-northeast-2.amazonaws.com/22608/7ddfc60e-33c9-4170-b6ad-af99a588eac2/케이시시정공웹배너.png",
+    "title": "유공압 제조업체 케이시시정공의 유튜브 개선방안 및 채널 콘텐츠 제안",
+    "company": "케이시시정공(주)"
+  },
+  {
+    "id": 30,
+    "createdAt": "2022-02-13T11:58:14.564Z",
+    "updatedAt": "2022-02-13T11:58:14.564Z",
+    "thumbnail": "https://miniintern-upload.s3.ap-northeast-2.amazonaws.com/22574/d11587a9-1d53-48ec-92f0-264488f7cb6e/랜딩페이지페피테일-01.png",
+    "title": " 프리미엄 반려동물 간식 제품의 타겟을 효과적으로 유입시킬 수 있는 SNS 영상 콘텐츠 기획",
+    "company": "(주)페피테일"
+  },
+  {
+    "id": 31,
+    "createdAt": "2019-09-27T06:38:42.143Z",
+    "updatedAt": "2019-09-27T06:38:42.143Z",
+    "thumbnail": "https://miniintern-upload.s3.ap-northeast-2.amazonaws.com/22573/680a2b0a-d064-4f26-88af-33e10b0663d4/에이아이스페라미니인턴랜딩페이지커버.png",
+    "title": "AI Spera의 홈페이지 UI/UX 디자인 개선 아이디어 제안",
+    "company": "(주)에이아이스페라"
+  },
+  {
+    "id": 32,
+    "createdAt": "2022-02-14T12:24:05.324Z",
+    "updatedAt": "2022-02-14T12:24:05.324Z",
+    "thumbnail": "https://miniintern-upload.s3.ap-northeast-2.amazonaws.com/22506/2ec2d0ea-9abc-4c79-a1d3-e79eeb88b95c/에이아이스페라미니인턴랜딩페이지커버.png",
+    "title": "AI Spera의 성공적인 해외 시장 진출을 위한 마케팅 전략 아이디어 제안",
+    "company": "(주)에이아이스페라"
+  },
+  {
+    "id": 33,
+    "createdAt": "2018-10-02T09:47:17.913Z",
+    "updatedAt": "2018-10-02T09:47:17.913Z",
+    "thumbnail": "https://miniintern-upload.s3.ap-northeast-2.amazonaws.com/22431/4102cb1f-e96a-416c-a455-c922dd8c9723/콘콘배너.png",
+    "title": "'오즈의 제작소'의 브랜드 인지도를 높일 수 있는 광고 컨셉 및 아이디어 제안",
+    "company": "콘콘"
+  },
+  {
+    "id": 34,
+    "createdAt": "2020-09-29T10:09:37.595Z",
+    "updatedAt": "2020-09-29T10:09:37.595Z",
+    "thumbnail": "https://miniintern-upload.s3.ap-northeast-2.amazonaws.com/22457/71865219-6472-402f-94d2-25981f4620a9/어라운드바디미니인턴랜딩페이지커버.png",
+    "title": "친환경 생리용품 '어라운드바디'의 신규 고객을 유입할 수 있는 SNS 콘텐츠 마케팅 아이디어 제안",
+    "company": "(주)어라운드바디"
+  },
+  {
+    "id": 35,
+    "createdAt": "2020-01-03T14:06:00.013Z",
+    "updatedAt": "2020-01-03T14:06:00.013Z",
+    "thumbnail": "https://miniintern-upload.s3.ap-northeast-2.amazonaws.com/22372/e635adf6-bfcc-45bb-98cc-835082d076f0/제제미미-3.jpg",
+    "title": "  0~3세 아이를 키우는 국내 엄마 대상 마케팅 아이디어 및 전략제안",
+    "company": "(주)제제미미"
+  },
+  {
+    "id": 36,
+    "createdAt": "2019-11-13T05:46:59.907Z",
+    "updatedAt": "2019-11-13T05:46:59.907Z",
+    "thumbnail": "https://miniintern-upload.s3.ap-northeast-2.amazonaws.com/22363/76bc77f4-e75b-43db-93f3-34592031db58/비상교육웹배너.png",
+    "title": "와이즈캠프 초등교육 과정 마케팅 홍보 제안",
+    "company": "(주)비상교육"
+  },
+  {
+    "id": 37,
+    "createdAt": "2018-03-28T09:55:41.870Z",
+    "updatedAt": "2018-03-28T09:55:41.870Z",
+    "thumbnail": "https://miniintern-upload.s3.ap-northeast-2.amazonaws.com/22331/09179b4b-af04-4ab8-a47a-48390f25e920/아이뉴글로벌배너.png",
+    "title": "'아이뉴글로벌'의 전문직 종사자 유튜브 마케팅 홍보 아이디어 제안",
+    "company": "(주)아이뉴글로벌"
+  },
+  {
+    "id": 38,
+    "createdAt": "2018-12-07T09:16:10.679Z",
+    "updatedAt": "2018-12-07T09:16:10.679Z",
+    "thumbnail": "https://miniintern-upload.s3.ap-northeast-2.amazonaws.com/22325/8ba4d560-54aa-420e-824b-b61303148cbf/더진미니인턴랜딩페이지커버3.png",
+    "title": "‘아모레퍼시픽’의 셀링 포인트를 효과적으로 알릴 수 있는 상세페이지 기획",
+    "company": "(주)더진"
+  },
+  {
+    "id": 39,
+    "createdAt": "2020-01-24T02:22:42.996Z",
+    "updatedAt": "2020-01-24T02:22:42.996Z",
+    "thumbnail": "https://miniintern-upload.s3.ap-northeast-2.amazonaws.com/22275/145860c3-ac1a-40c7-a3d6-43fe5530aba8/케이시시정공웹배너.png",
+    "title": "유공압 제조업체 케이시시정공의 영업 전략 제안",
+    "company": "케이시시정공(주)"
+  },
+  {
+    "id": 40,
+    "createdAt": "2020-12-23T05:29:10.677Z",
+    "updatedAt": "2020-12-23T05:29:10.677Z",
+    "thumbnail": "https://miniintern-upload.s3.ap-northeast-2.amazonaws.com/22221/07d3856d-b82c-4e76-91d0-9b2cafa2456b/크레마미니인턴랜딩페이지커버.png",
+    "title": "크레마가 진행하고 있는 MZ세대 대상의 기업 브랜드 캠페인의 전략 방향성 제안",
+    "company": "(주)크레마"
+  },
+  {
+    "id": 41,
+    "createdAt": "2018-09-03T09:28:07.069Z",
+    "updatedAt": "2018-09-03T09:28:07.069Z",
+    "thumbnail": "https://miniintern-upload.s3.ap-northeast-2.amazonaws.com/22162/c2ae7ab5-944d-4460-89f4-eb8a0509ff81/디에스이트레이드미니인턴랜딩페이지커버.png",
+    "title": "Bills of Material (BOM) 용어에 대한 정의 제안",
+    "company": "(주)디에스이트레이드"
+  },
+  {
+    "id": 42,
+    "createdAt": "2019-10-31T02:38:29.815Z",
+    "updatedAt": "2019-10-31T02:38:29.815Z",
+    "thumbnail": "https://miniintern-upload.s3.ap-northeast-2.amazonaws.com/22098/aa1cd14c-d5d2-44c3-b63e-20a3cf0c3e51/휴비즈랜딩페이지커버.png",
+    "title": "고객사 홍보 목적에 맞는 SNS 콘텐츠 아이디어 기획 및 마케팅 방안 제안",
+    "company": "(주)휴비즈"
+  },
+  {
+    "id": 43,
+    "createdAt": "2020-06-08T15:36:13.787Z",
+    "updatedAt": "2020-06-08T15:36:13.787Z",
+    "thumbnail": "https://miniintern-upload.s3.ap-northeast-2.amazonaws.com/22092/2b2828db-d723-405f-a792-fac4ac476082/주에듀윌미니인턴커버이미지.png",
+    "title": "독자들이 매력적으로 느낄 수 있는 '에듀윌' 교재 콘텐츠 기획",
+    "company": "(주)에듀윌"
+  },
+  {
+    "id": 44,
+    "createdAt": "2018-10-15T21:06:23.503Z",
+    "updatedAt": "2018-10-15T21:06:23.503Z",
+    "thumbnail": "https://miniintern-upload.s3.ap-northeast-2.amazonaws.com/22030/019aa800-d119-4fa9-8009-b7b249386fee/브라운백커피광명시커버.png",
+    "title": "고객 만족도가 높은 '구독' 또는 'B2B SaaS'서비스 사례 조사 및 분석",
+    "company": "브라운백커피(주)"
+  },
+  {
+    "id": 45,
+    "createdAt": "2020-05-05T21:51:28.989Z",
+    "updatedAt": "2020-05-05T21:51:28.989Z",
+    "thumbnail": "https://miniintern-upload.s3.ap-northeast-2.amazonaws.com/22028/811dc94e-0695-4d55-b72a-43bd37511883/브라운백커피광명시커버.png",
+    "title": "‘브라운백커피’ 인지도 향상을 위한 콘텐츠 아이디어 제안",
+    "company": "브라운백커피(주)"
+  },
+  {
+    "id": 46,
+    "createdAt": "2020-05-28T01:31:14.717Z",
+    "updatedAt": "2020-05-28T01:31:14.717Z",
+    "thumbnail": "https://miniintern-upload.s3.ap-northeast-2.amazonaws.com/21990/1a90cb8d-39a5-4d0c-bb4b-79b4dda3cb06/오픈놀배배너-1.png",
+    "title": "진로/취업/창업/청년 교육 프로그램 기획 및 운영방안 제안",
+    "company": "오픈놀"
+  },
+  {
+    "id": 47,
+    "createdAt": "2018-03-24T22:07:36.566Z",
+    "updatedAt": "2018-03-24T22:07:36.566Z",
+    "thumbnail": "https://miniintern-upload.s3.ap-northeast-2.amazonaws.com/21940/e753f9a2-6a80-4e58-ac37-180b5ab1c985/링티커버이미지.png",
+    "title": "카페인 신개념 환 ‘포커스 카페인’을 효과적으로 알릴 수 있는 마케팅 방안 기획",
+    "company": "(주)링티"
+  },
+  {
+    "id": 48,
+    "createdAt": "2021-06-15T09:11:24.258Z",
+    "updatedAt": "2021-06-15T09:11:24.258Z",
+    "thumbnail": "https://miniintern-upload.s3.ap-northeast-2.amazonaws.com/21919/4566f62b-ae61-4c79-972d-aa1d1649227e/푸들-배너.png",
+    "title": "자체 다회용기 '푸들 플레이트'와 다회용기 공유 서비스 '푸들'을 활용한 신규 사업 아이디어 제안",
+    "company": "바로 스튜디오"
+  },
+  {
+    "id": 49,
+    "createdAt": "2021-07-24T22:00:03.095Z",
+    "updatedAt": "2021-07-24T22:00:03.095Z",
+    "thumbnail": "https://miniintern-upload.s3.ap-northeast-2.amazonaws.com/21901/36c28942-9183-43ff-9132-15d494859ef5/플레이콕커버이미지.png",
+    "title": "회원과 적극적으로 소통하고 스포츠콕을 알릴 수 있는 인스타그램 콘텐츠 마케팅 방안 제안",
+    "company": "(주)플레이콕"
+  },
+  {
+    "id": 50,
+    "createdAt": "2019-10-16T17:16:29.513Z",
+    "updatedAt": "2019-10-16T17:16:29.513Z",
+    "thumbnail": "https://miniintern-upload.s3.ap-northeast-2.amazonaws.com/21880/67163841-2e61-4672-a261-1f508b09f4a5/타이거컴퍼니랜딩페이지-커버.png",
+    "title": "디지털 워크 플랫폼 서비스 ‘티그리스’의 정기 뉴스레터 콘텐츠 기획",
+    "company": "(주)타이거컴퍼니"
+  },
+  {
+    "id": 51,
+    "createdAt": "2019-06-04T14:42:00.348Z",
+    "updatedAt": "2019-06-04T14:42:00.348Z",
+    "thumbnail": "https://miniintern-upload.s3.ap-northeast-2.amazonaws.com/21803/ad91ebf5-8563-437d-9216-d939acedec94/선셋-배너.png",
+    "title": " Sunsat 브랜드의 소비자 호감도를 올릴 수 있는 홈페이지 디자인 개선 아이디어 제안",
+    "company": "대타"
+  },
+  {
+    "id": 52,
+    "createdAt": "2021-07-10T11:27:24.175Z",
+    "updatedAt": "2021-07-10T11:27:24.175Z",
+    "thumbnail": "https://miniintern-upload.s3.ap-northeast-2.amazonaws.com/21795/d1898d62-5707-4987-bb98-0b2dbc888867/닥터도지-배너.png",
+    "title": " 닥터도지의 새로운 브랜드 이미지를 효과적으로 구축할 수 있는 SNS 콘텐츠 마케팅 방안 제안",
+    "company": "주식회사 플루비오파일"
+  },
+  {
+    "id": 53,
+    "createdAt": "2019-07-28T06:54:34.981Z",
+    "updatedAt": "2019-07-28T06:54:34.981Z",
+    "thumbnail": "https://miniintern-upload.s3.ap-northeast-2.amazonaws.com/21776/8083f574-50b6-41c8-bd06-8d3a9a9646af/민트팟웹배너.png",
+    "title": "면접의신VR의 면접을 활용한 새로운 학과, 직군, 기업 콘텐츠 기획",
+    "company": "(주)민트팟"
+  },
+  {
+    "id": 54,
+    "createdAt": "2020-11-02T02:09:29.424Z",
+    "updatedAt": "2020-11-02T02:09:29.424Z",
+    "thumbnail": "https://miniintern-upload.s3.ap-northeast-2.amazonaws.com/21643/2342479e-d3ba-4c60-a928-bc46b2cd4201/주하이어다이버시티커버이미지.png",
+    "title": "’하이어다이버시티‘의 온보딩 랜딩페이지 디자인 콘셉트 제안",
+    "company": "(주)하이어다이버시티"
+  },
+  {
+    "id": 55,
+    "createdAt": "2020-10-05T04:40:22.498Z",
+    "updatedAt": "2020-10-05T04:40:22.498Z",
+    "thumbnail": "https://miniintern-upload.s3.ap-northeast-2.amazonaws.com/21636/e426f879-22cb-4b69-96e1-8f0dfffd7035/주디비디비랩코퍼레이션커버이미지.png",
+    "title": "라이프스타일 어메니티 브랜드 ‘패러슈트’를 효과적으로 알릴 수 있는 SNS 콘텐츠 기획",
+    "company": "(주)디비디비랩코퍼레이션"
+  },
+  {
+    "id": 56,
+    "createdAt": "2020-03-01T03:49:35.283Z",
+    "updatedAt": "2020-03-01T03:49:35.283Z",
+    "thumbnail": "https://miniintern-upload.s3.ap-northeast-2.amazonaws.com/21583/6b50aeea-5180-470e-8c65-e463b442a178/파블로항공채용형미니인턴랜딩페이지-커버.png",
+    "title": "파블로항공의 사업 분야와 비전의 시각화 제안/ 드론아트쇼에 3D 애니메이션 아이디어 제안",
+    "company": "(주)파블로항공"
+  },
+  {
+    "id": 57,
+    "createdAt": "2021-09-04T20:00:51.591Z",
+    "updatedAt": "2021-09-04T20:00:51.591Z",
+    "thumbnail": "https://miniintern-upload.s3.ap-northeast-2.amazonaws.com/21522/c1a000d2-aa27-4a6e-a79c-f95f8c7a46a0/쉐어러스웹배너.png",
+    "title": "‘교보북살롱’ 주니어 멤버십 신규 고객 유치를 위한 독서 프로그램 기획",
+    "company": "(주)쉐어러스"
+  },
+  {
+    "id": 58,
+    "createdAt": "2019-02-21T03:24:21.465Z",
+    "updatedAt": "2019-02-21T03:24:21.465Z",
+    "thumbnail": "https://miniintern-upload.s3.ap-northeast-2.amazonaws.com/21513/ce59ce1d-7da1-4e15-86dd-0b00e1ccb7a8/오로라디자인랩채용형미니인턴랜딩페이지cover.png",
+    "title": "신규 고객사 발굴을 위한 B2B 영업 전략 제안",
+    "company": "(주)오로라디자인랩"
+  },
+  {
+    "id": 59,
+    "createdAt": "2020-04-22T08:31:50.038Z",
+    "updatedAt": "2020-04-22T08:31:50.038Z",
+    "thumbnail": "https://miniintern-upload.s3.ap-northeast-2.amazonaws.com/21429/bf35749f-5ab4-49b4-b4aa-537508f3562d/에이아이스페라웹배너.png",
+    "title": "AI Spera 기존 홍보 채널 분석 및 신규 채널 마케팅 제안",
+    "company": "(주)에이아이스페라"
+  },
+  {
+    "id": 60,
+    "createdAt": "2021-07-17T16:56:37.729Z",
+    "updatedAt": "2021-07-17T16:56:37.729Z",
+    "thumbnail": "https://miniintern-upload.s3.ap-northeast-2.amazonaws.com/21399/2c274d50-af59-4786-b6ad-2160b7b88ea6/banner.jpg",
+    "title": "건축, 종합부동산 기업 ’하우올리‘를 효과적으로 알릴 수 있는 네이버 블로그 포스트 기획",
+    "company": "(주)하우올리"
+  },
+  {
+    "id": 61,
+    "createdAt": "2021-03-28T19:01:27.398Z",
+    "updatedAt": "2021-03-28T19:01:27.398Z",
+    "thumbnail": "https://miniintern-upload.s3.ap-northeast-2.amazonaws.com/21347/69d34282-7adf-43c8-8b9f-5981705e6745/그레이트퍼즐배너.png",
+    "title": "그레이트퍼즐의 목적과 가치에 대해 알릴 수 있는 제휴, 협업, 연계방안 기획",
+    "company": "(주)그레이트퍼즐"
+  },
+  {
+    "id": 62,
+    "createdAt": "2018-10-02T11:48:16.812Z",
+    "updatedAt": "2018-10-02T11:48:16.812Z",
+    "thumbnail": "https://miniintern-upload.s3.ap-northeast-2.amazonaws.com/21385/02f12e22-3651-4d23-9f12-c557cea71f68/폼즈채용형미니인턴커버이미지.png",
+    "title": "버추얼 인플루언서 3D 모델링 디자인",
+    "company": "(주)폼즈"
+  },
+  {
+    "id": 63,
+    "createdAt": "2018-03-12T02:55:09.744Z",
+    "updatedAt": "2018-03-12T02:55:09.744Z",
+    "thumbnail": "https://miniintern-upload.s3.ap-northeast-2.amazonaws.com/21211/435edabd-fb43-472a-843d-0362b3717ffb/브라운백커피배너.jpg",
+    "title": "기업과 구직자 간의 미스매칭 최소화를 위한 자사 웹사이트(블로그) 콘텐츠 아이디어 제안",
+    "company": "(주)브라운백커피"
+  },
+  {
+    "id": 64,
+    "createdAt": "2018-03-07T04:38:55.520Z",
+    "updatedAt": "2018-03-07T04:38:55.520Z",
+    "thumbnail": "https://miniintern-upload.s3.ap-northeast-2.amazonaws.com/21102/4dee532b-54a6-47ac-a586-7f9c201f9657/에이아이스페라웹배너.png",
+    "title": "사이버보안 관련 해외 마케팅 트랜드 파악 및 홍보 전략 기획",
+    "company": "(주)에이아이스페라"
+  }
+]

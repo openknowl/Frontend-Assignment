@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "image": "https://miniintern-upload.s3.ap-northeast-2.amazonaws.com/23810/e13bb4e0-a59a-445d-b1c5-b30a0297c246/miniintern1PC.png",
+    "link": "https://miniintern.com/",
+    "createdAt": "2021-07-01T12:09:12.629Z",
+    "updatedAt": "2021-07-01T12:09:12.629Z"
+  },
+  {
+    "id": 2,
+    "image": "https://miniintern-upload.s3.ap-northeast-2.amazonaws.com/23810/e13bb4e0-a59a-445d-b1c5-b30a0297c246/miniintern1PC.png",
+    "link": "https://miniintern.com/",
+    "createdAt": "2021-11-29T23:08:55.701Z",
+    "updatedAt": "2021-11-29T23:08:55.701Z"
+  },
+  {
+    "id": 3,
+    "image": "https://miniintern-upload.s3.ap-northeast-2.amazonaws.com/23810/e13bb4e0-a59a-445d-b1c5-b30a0297c246/miniintern1PC.png",
+    "link": "https://miniintern.com/",
+    "createdAt": "2018-06-10T13:57:07.451Z",
+    "updatedAt": "2018-06-10T13:57:07.451Z"
+  },
+  {
+    "id": 4,
+    "image": "https://miniintern-upload.s3.ap-northeast-2.amazonaws.com/23810/e13bb4e0-a59a-445d-b1c5-b30a0297c246/miniintern1PC.png",
+    "link": "https://miniintern.com/",
+    "createdAt": "2019-06-13T13:22:21.551Z",
+    "updatedAt": "2019-06-13T13:22:21.551Z"
+  },
+  {
+    "id": 5,
+    "image": "https://miniintern-upload.s3.ap-northeast-2.amazonaws.com/23810/e13bb4e0-a59a-445d-b1c5-b30a0297c246/miniintern1PC.png",
+    "link": "https://miniintern.com/",
+    "createdAt": "2021-08-05T23:11:29.284Z",
+    "updatedAt": "2021-08-05T23:11:29.284Z"
+  },
+  {
+    "id": 6,
+    "image": "https://miniintern-upload.s3.ap-northeast-2.amazonaws.com/23810/e13bb4e0-a59a-445d-b1c5-b30a0297c246/miniintern1PC.png",
+    "link": "https://miniintern.com/",
+    "createdAt": "2022-03-18T13:41:29.828Z",
+    "updatedAt": "2022-03-18T13:41:29.828Z"
+  },
+  {
+    "id": 7,
+    "image": "https://miniintern-upload.s3.ap-northeast-2.amazonaws.com/23810/e13bb4e0-a59a-445d-b1c5-b30a0297c246/miniintern1PC.png",
+    "link": "https://miniintern.com/",
+    "createdAt": "2020-12-25T10:54:23.681Z",
+    "updatedAt": "2020-12-25T10:54:23.681Z"
+  },
+  {
+    "id": 8,
+    "image": "https://miniintern-upload.s3.ap-northeast-2.amazonaws.com/23810/e13bb4e0-a59a-445d-b1c5-b30a0297c246/miniintern1PC.png",
+    "link": "https://miniintern.com/",
+    "createdAt": "2020-04-12T15:26:52.840Z",
+    "updatedAt": "2020-04-12T15:26:52.840Z"
+  },
+  {
+    "id": 9,
+    "image": "https://miniintern-upload.s3.ap-northeast-2.amazonaws.com/23810/e13bb4e0-a59a-445d-b1c5-b30a0297c246/miniintern1PC.png",
+    "link": "https://miniintern.com/",
+    "createdAt": "2019-07-09T06:07:48.264Z",
+    "updatedAt": "2019-07-09T06:07:48.264Z"
+  },
+  {
+    "id": 10,
+    "image": "https://miniintern-upload.s3.ap-northeast-2.amazonaws.com/23810/e13bb4e0-a59a-445d-b1c5-b30a0297c246/miniintern1PC.png",
+    "link": "https://miniintern.com/",
+    "createdAt": "2021-04-22T08:07:45.805Z",
+    "updatedAt": "2021-04-22T08:07:45.805Z"
+  },
+  {
+    "id": 11,
+    "image": "https://miniintern-upload.s3.ap-northeast-2.amazonaws.com/23810/e13bb4e0-a59a-445d-b1c5-b30a0297c246/miniintern1PC.png",
+    "link": "https://miniintern.com/",
+    "createdAt": "2019-12-16T05:08:48.074Z",
+    "updatedAt": "2019-12-16T05:08:48.074Z"
+  },
+  {
+    "id": 12,
+    "image": "https://miniintern-upload.s3.ap-northeast-2.amazonaws.com/23810/e13bb4e0-a59a-445d-b1c5-b30a0297c246/miniintern1PC.png",
+    "link": "https://miniintern.com/",
+    "createdAt": "2020-06-02T15:02:50.720Z",
+    "updatedAt": "2020-06-02T15:02:50.720Z"
+  },
+  {
+    "id": 13,
+    "image": "https://miniintern-upload.s3.ap-northeast-2.amazonaws.com/23810/e13bb4e0-a59a-445d-b1c5-b30a0297c246/miniintern1PC.png",
+    "link": "https://miniintern.com/",
+    "createdAt": "2020-05-10T08:36:48.236Z",
+    "updatedAt": "2020-05-10T08:36:48.236Z"
+  },
+  {
+    "id": 14,
+    "image": "https://miniintern-upload.s3.ap-northeast-2.amazonaws.com/23810/e13bb4e0-a59a-445d-b1c5-b30a0297c246/miniintern1PC.png",
+    "link": "https://miniintern.com/",
+    "createdAt": "2018-11-04T19:44:50.653Z",
+    "updatedAt": "2018-11-04T19:44:50.653Z"
+  },
+  {
+    "id": 15,
+    "image": "https://miniintern-upload.s3.ap-northeast-2.amazonaws.com/23810/e13bb4e0-a59a-445d-b1c5-b30a0297c246/miniintern1PC.png",
+    "link": "https://miniintern.com/",
+    "createdAt": "2021-06-03T09:41:58.633Z",
+    "updatedAt": "2021-06-03T09:41:58.633Z"
+  }
+]
