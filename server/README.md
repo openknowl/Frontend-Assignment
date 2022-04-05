@@ -67,6 +67,12 @@ status : 200 OK
 ]
 ```
 
+```javascript
+status : 400 Bad Request
+
+Query 내 required 속성인 limit, page, orderBy 값 중 하나라도 없을 경우
+```
+
 <br />
 
 ### 2. `/banners` : 배너 리스트 불러오기(총 배너 개수 15개)
@@ -104,4 +110,10 @@ status : 200 OK
         "updatedAt": "2021-11-29T23:08:55.701Z"
     }
 ]
+```
+
+```javascript
+status : 400 Bad Request
+
+Query 내 required 속성인 limit 값이 없을 경우
 ```
